@@ -1,2 +1,1 @@
-# Human-Activity-Recognition-
-Using Federated Learning 
+# Human-Activity-Recognition Using Federated Learning 
